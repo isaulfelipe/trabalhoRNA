@@ -44,8 +44,8 @@ Por se tratar de um script Python puro, não há necessidade de criar ambientes 
 
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/isaulfelipe/trabalhoRNA.git
+   cd trabalhoRNA
    ```
 
 2. Execute o script principal:

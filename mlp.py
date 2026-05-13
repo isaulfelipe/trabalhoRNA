@@ -97,7 +97,7 @@ class MLP:
             
             epoch_mse = total_mse / len(dataset)
             
-            if epoch == 1 or epoch % 1000 == 0:
+            if epoch == 1 or epoch % 100 == 0:
                 print(f"Época {epoch:5d} | Erro Médio Quadrático (MSE): {epoch_mse:.6f}")
                 
         print("\n[EXPLICAÇÃO] Observe na lista acima como o MSE caiu consideravelmente!")
